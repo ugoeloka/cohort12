@@ -5,4 +5,5 @@ tiger
 rat
 cat
 tarantula
-
+bear 
+cheetah
