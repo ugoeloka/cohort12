@@ -4,3 +4,5 @@ snake
 tiger
 rat
 cat
+tarantula
+
