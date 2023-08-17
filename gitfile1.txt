@@ -2,3 +2,5 @@ List of predators
 lion
 snake
 tiger
+rat
+cat
