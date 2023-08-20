@@ -9,3 +9,5 @@ bear
 cheetah
 sloth
 goat
+cat
+bat
