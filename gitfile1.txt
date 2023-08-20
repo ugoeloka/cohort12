@@ -7,3 +7,5 @@ cat
 tarantula
 bear 
 cheetah
+sloth
+goat
