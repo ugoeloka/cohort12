@@ -5,4 +5,7 @@ tiger
 rat
 cat
 tarantula
-
+bear 
+cheetah
+sloth
+goat
