@@ -11,3 +11,5 @@ sloth
 goat
 cat
 bat
+owl
+monkey
